@@ -7,7 +7,7 @@ import { SAMPLE_PARAGRAPHS } from '../../data/sampleParagraphs';
 import './App.css';
 import ChallengeSection from '../ChallengeSection/ChallengeSection';
 
-const TotalTime = 3;
+const TotalTime = 60;
 const serviceUrl = 'http://metaphorpsum.com/paragraphs/1/9';
 
 const DefaultState = {
