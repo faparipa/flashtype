@@ -1,7 +1,7 @@
 {
   "name": "flashtype01",
   "private": true,
-  "hompage": "http:// https://faparipa.github.io/flashtype",
+  "hompage": "https://faparipa.github.io/flashtype",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
